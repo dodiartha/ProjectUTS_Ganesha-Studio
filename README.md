@@ -16,5 +16,5 @@ Tampilan Bo0king Prewed Pada Ganesha Studio Dan Tampilan Notifikasi Sukses Ketik
 <img src="https://github.com/dodiartha/ProjectUTS_Ganesha-Studio/blob/master/Screenshots/Screenshot_20180417-171343.png" width="350"/> <br>
 
 Tampilan Jadwal Ganesha Studio <br>
-<img src="" width="350"/> <br>
+<img src="https://github.com/dodiartha/ProjectUTS_Ganesha-Studio/blob/master/Screenshots/Screenshot_20180417-171403.png" width="350"/> <br>
 
